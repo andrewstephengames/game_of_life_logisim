@@ -792,6 +792,102 @@
       <a name="facing" val="east"/>
       <a name="label" val="C23"/>
     </comp>
+    <comp lib="0" loc="(1580,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C11"/>
+    </comp>
+    <comp lib="0" loc="(1580,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C21"/>
+    </comp>
+    <comp lib="0" loc="(1580,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C31"/>
+    </comp>
+    <comp lib="0" loc="(1580,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C41"/>
+    </comp>
+    <comp lib="0" loc="(1580,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C51"/>
+    </comp>
+    <comp lib="0" loc="(1580,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C61"/>
+    </comp>
+    <comp lib="0" loc="(1580,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C71"/>
+    </comp>
+    <comp lib="0" loc="(1580,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C81"/>
+    </comp>
+    <comp lib="0" loc="(1640,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C12"/>
+    </comp>
+    <comp lib="0" loc="(1640,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C22"/>
+    </comp>
+    <comp lib="0" loc="(1640,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C32"/>
+    </comp>
+    <comp lib="0" loc="(1640,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C42"/>
+    </comp>
+    <comp lib="0" loc="(1640,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C52"/>
+    </comp>
+    <comp lib="0" loc="(1640,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C62"/>
+    </comp>
+    <comp lib="0" loc="(1640,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C72"/>
+    </comp>
+    <comp lib="0" loc="(1640,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C82"/>
+    </comp>
+    <comp lib="0" loc="(1700,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C13"/>
+    </comp>
+    <comp lib="0" loc="(1700,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C23"/>
+    </comp>
+    <comp lib="0" loc="(1700,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C33"/>
+    </comp>
+    <comp lib="0" loc="(1700,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C43"/>
+    </comp>
+    <comp lib="0" loc="(1700,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C53"/>
+    </comp>
+    <comp lib="0" loc="(1700,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C63"/>
+    </comp>
+    <comp lib="0" loc="(1700,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C73"/>
+    </comp>
+    <comp lib="0" loc="(1700,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C83"/>
+    </comp>
     <comp lib="0" loc="(1730,1130)" name="Tunnel">
       <a name="label" val="C24"/>
     </comp>
@@ -815,6 +911,70 @@
     </comp>
     <comp lib="0" loc="(1730,820)" name="Tunnel">
       <a name="label" val="C14"/>
+    </comp>
+    <comp lib="0" loc="(1760,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C14"/>
+    </comp>
+    <comp lib="0" loc="(1760,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C24"/>
+    </comp>
+    <comp lib="0" loc="(1760,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C34"/>
+    </comp>
+    <comp lib="0" loc="(1760,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C44"/>
+    </comp>
+    <comp lib="0" loc="(1760,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C54"/>
+    </comp>
+    <comp lib="0" loc="(1760,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C64"/>
+    </comp>
+    <comp lib="0" loc="(1760,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C74"/>
+    </comp>
+    <comp lib="0" loc="(1760,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C84"/>
+    </comp>
+    <comp lib="0" loc="(1820,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C15"/>
+    </comp>
+    <comp lib="0" loc="(1820,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C25"/>
+    </comp>
+    <comp lib="0" loc="(1820,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C35"/>
+    </comp>
+    <comp lib="0" loc="(1820,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C45"/>
+    </comp>
+    <comp lib="0" loc="(1820,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C55"/>
+    </comp>
+    <comp lib="0" loc="(1820,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C65"/>
+    </comp>
+    <comp lib="0" loc="(1820,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C75"/>
+    </comp>
+    <comp lib="0" loc="(1820,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C85"/>
     </comp>
     <comp lib="0" loc="(1870,1000)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1159,6 +1319,102 @@
     <comp lib="0" loc="(1870,980)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="C24"/>
+    </comp>
+    <comp lib="0" loc="(1880,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C16"/>
+    </comp>
+    <comp lib="0" loc="(1880,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C26"/>
+    </comp>
+    <comp lib="0" loc="(1880,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C35"/>
+    </comp>
+    <comp lib="0" loc="(1880,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C46"/>
+    </comp>
+    <comp lib="0" loc="(1880,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C56"/>
+    </comp>
+    <comp lib="0" loc="(1880,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C66"/>
+    </comp>
+    <comp lib="0" loc="(1880,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C76"/>
+    </comp>
+    <comp lib="0" loc="(1880,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C86"/>
+    </comp>
+    <comp lib="0" loc="(1940,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C17"/>
+    </comp>
+    <comp lib="0" loc="(1940,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C27"/>
+    </comp>
+    <comp lib="0" loc="(1940,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C36"/>
+    </comp>
+    <comp lib="0" loc="(1940,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C47"/>
+    </comp>
+    <comp lib="0" loc="(1940,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C57"/>
+    </comp>
+    <comp lib="0" loc="(1940,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C67"/>
+    </comp>
+    <comp lib="0" loc="(1940,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C77"/>
+    </comp>
+    <comp lib="0" loc="(1940,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C87"/>
+    </comp>
+    <comp lib="0" loc="(2000,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C18"/>
+    </comp>
+    <comp lib="0" loc="(2000,230)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C28"/>
+    </comp>
+    <comp lib="0" loc="(2000,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C37"/>
+    </comp>
+    <comp lib="0" loc="(2000,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C48"/>
+    </comp>
+    <comp lib="0" loc="(2000,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C58"/>
+    </comp>
+    <comp lib="0" loc="(2000,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C68"/>
+    </comp>
+    <comp lib="0" loc="(2000,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C78"/>
+    </comp>
+    <comp lib="0" loc="(2000,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="C88"/>
     </comp>
     <comp lib="0" loc="(2090,1130)" name="Tunnel">
       <a name="label" val="C25"/>
@@ -2301,262 +2557,6 @@
     <comp lib="0" loc="(3110,820)" name="Tunnel">
       <a name="label" val="C18"/>
     </comp>
-    <comp lib="0" loc="(3750,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C21"/>
-    </comp>
-    <comp lib="0" loc="(3750,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C31"/>
-    </comp>
-    <comp lib="0" loc="(3750,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C41"/>
-    </comp>
-    <comp lib="0" loc="(3750,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C51"/>
-    </comp>
-    <comp lib="0" loc="(3750,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C61"/>
-    </comp>
-    <comp lib="0" loc="(3750,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C71"/>
-    </comp>
-    <comp lib="0" loc="(3750,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C81"/>
-    </comp>
-    <comp lib="0" loc="(3750,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C11"/>
-    </comp>
-    <comp lib="0" loc="(3810,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C22"/>
-    </comp>
-    <comp lib="0" loc="(3810,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C32"/>
-    </comp>
-    <comp lib="0" loc="(3810,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C42"/>
-    </comp>
-    <comp lib="0" loc="(3810,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C52"/>
-    </comp>
-    <comp lib="0" loc="(3810,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C62"/>
-    </comp>
-    <comp lib="0" loc="(3810,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C72"/>
-    </comp>
-    <comp lib="0" loc="(3810,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C82"/>
-    </comp>
-    <comp lib="0" loc="(3810,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C12"/>
-    </comp>
-    <comp lib="0" loc="(3870,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C23"/>
-    </comp>
-    <comp lib="0" loc="(3870,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C33"/>
-    </comp>
-    <comp lib="0" loc="(3870,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C43"/>
-    </comp>
-    <comp lib="0" loc="(3870,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C53"/>
-    </comp>
-    <comp lib="0" loc="(3870,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C63"/>
-    </comp>
-    <comp lib="0" loc="(3870,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C73"/>
-    </comp>
-    <comp lib="0" loc="(3870,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C83"/>
-    </comp>
-    <comp lib="0" loc="(3870,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C13"/>
-    </comp>
-    <comp lib="0" loc="(3930,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C24"/>
-    </comp>
-    <comp lib="0" loc="(3930,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C34"/>
-    </comp>
-    <comp lib="0" loc="(3930,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C44"/>
-    </comp>
-    <comp lib="0" loc="(3930,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C54"/>
-    </comp>
-    <comp lib="0" loc="(3930,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C64"/>
-    </comp>
-    <comp lib="0" loc="(3930,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C74"/>
-    </comp>
-    <comp lib="0" loc="(3930,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C84"/>
-    </comp>
-    <comp lib="0" loc="(3930,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C14"/>
-    </comp>
-    <comp lib="0" loc="(3990,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C25"/>
-    </comp>
-    <comp lib="0" loc="(3990,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C35"/>
-    </comp>
-    <comp lib="0" loc="(3990,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C45"/>
-    </comp>
-    <comp lib="0" loc="(3990,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C55"/>
-    </comp>
-    <comp lib="0" loc="(3990,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C65"/>
-    </comp>
-    <comp lib="0" loc="(3990,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C75"/>
-    </comp>
-    <comp lib="0" loc="(3990,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C85"/>
-    </comp>
-    <comp lib="0" loc="(3990,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C15"/>
-    </comp>
-    <comp lib="0" loc="(4050,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C26"/>
-    </comp>
-    <comp lib="0" loc="(4050,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C35"/>
-    </comp>
-    <comp lib="0" loc="(4050,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C46"/>
-    </comp>
-    <comp lib="0" loc="(4050,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C56"/>
-    </comp>
-    <comp lib="0" loc="(4050,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C66"/>
-    </comp>
-    <comp lib="0" loc="(4050,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C76"/>
-    </comp>
-    <comp lib="0" loc="(4050,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C86"/>
-    </comp>
-    <comp lib="0" loc="(4050,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C16"/>
-    </comp>
-    <comp lib="0" loc="(4110,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C27"/>
-    </comp>
-    <comp lib="0" loc="(4110,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C36"/>
-    </comp>
-    <comp lib="0" loc="(4110,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C47"/>
-    </comp>
-    <comp lib="0" loc="(4110,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C57"/>
-    </comp>
-    <comp lib="0" loc="(4110,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C67"/>
-    </comp>
-    <comp lib="0" loc="(4110,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C77"/>
-    </comp>
-    <comp lib="0" loc="(4110,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C87"/>
-    </comp>
-    <comp lib="0" loc="(4110,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C17"/>
-    </comp>
-    <comp lib="0" loc="(4170,1050)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C28"/>
-    </comp>
-    <comp lib="0" loc="(4170,1110)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C37"/>
-    </comp>
-    <comp lib="0" loc="(4170,1170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C48"/>
-    </comp>
-    <comp lib="0" loc="(4170,1220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C58"/>
-    </comp>
-    <comp lib="0" loc="(4170,1280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C68"/>
-    </comp>
-    <comp lib="0" loc="(4170,1340)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C78"/>
-    </comp>
-    <comp lib="0" loc="(4170,1400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C88"/>
-    </comp>
-    <comp lib="0" loc="(4170,990)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="C18"/>
-    </comp>
     <comp lib="0" loc="(490,1000)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="C21"/>
@@ -3269,70 +3269,70 @@
       <a name="facing" val="east"/>
       <a name="label" val="C21"/>
     </comp>
-    <comp lib="5" loc="(3750,1050)" name="LED"/>
-    <comp lib="5" loc="(3750,1110)" name="LED"/>
-    <comp lib="5" loc="(3750,1170)" name="LED"/>
-    <comp lib="5" loc="(3750,1220)" name="LED"/>
-    <comp lib="5" loc="(3750,1280)" name="LED"/>
-    <comp lib="5" loc="(3750,1340)" name="LED"/>
-    <comp lib="5" loc="(3750,1400)" name="LED"/>
-    <comp lib="5" loc="(3750,990)" name="LED"/>
-    <comp lib="5" loc="(3810,1050)" name="LED"/>
-    <comp lib="5" loc="(3810,1110)" name="LED"/>
-    <comp lib="5" loc="(3810,1170)" name="LED"/>
-    <comp lib="5" loc="(3810,1220)" name="LED"/>
-    <comp lib="5" loc="(3810,1280)" name="LED"/>
-    <comp lib="5" loc="(3810,1340)" name="LED"/>
-    <comp lib="5" loc="(3810,1400)" name="LED"/>
-    <comp lib="5" loc="(3810,990)" name="LED"/>
-    <comp lib="5" loc="(3870,1050)" name="LED"/>
-    <comp lib="5" loc="(3870,1110)" name="LED"/>
-    <comp lib="5" loc="(3870,1170)" name="LED"/>
-    <comp lib="5" loc="(3870,1220)" name="LED"/>
-    <comp lib="5" loc="(3870,1280)" name="LED"/>
-    <comp lib="5" loc="(3870,1340)" name="LED"/>
-    <comp lib="5" loc="(3870,1400)" name="LED"/>
-    <comp lib="5" loc="(3870,990)" name="LED"/>
-    <comp lib="5" loc="(3930,1050)" name="LED"/>
-    <comp lib="5" loc="(3930,1110)" name="LED"/>
-    <comp lib="5" loc="(3930,1170)" name="LED"/>
-    <comp lib="5" loc="(3930,1220)" name="LED"/>
-    <comp lib="5" loc="(3930,1280)" name="LED"/>
-    <comp lib="5" loc="(3930,1340)" name="LED"/>
-    <comp lib="5" loc="(3930,1400)" name="LED"/>
-    <comp lib="5" loc="(3930,990)" name="LED"/>
-    <comp lib="5" loc="(3990,1050)" name="LED"/>
-    <comp lib="5" loc="(3990,1110)" name="LED"/>
-    <comp lib="5" loc="(3990,1170)" name="LED"/>
-    <comp lib="5" loc="(3990,1220)" name="LED"/>
-    <comp lib="5" loc="(3990,1280)" name="LED"/>
-    <comp lib="5" loc="(3990,1340)" name="LED"/>
-    <comp lib="5" loc="(3990,1400)" name="LED"/>
-    <comp lib="5" loc="(3990,990)" name="LED"/>
-    <comp lib="5" loc="(4050,1050)" name="LED"/>
-    <comp lib="5" loc="(4050,1110)" name="LED"/>
-    <comp lib="5" loc="(4050,1170)" name="LED"/>
-    <comp lib="5" loc="(4050,1220)" name="LED"/>
-    <comp lib="5" loc="(4050,1280)" name="LED"/>
-    <comp lib="5" loc="(4050,1340)" name="LED"/>
-    <comp lib="5" loc="(4050,1400)" name="LED"/>
-    <comp lib="5" loc="(4050,990)" name="LED"/>
-    <comp lib="5" loc="(4110,1050)" name="LED"/>
-    <comp lib="5" loc="(4110,1110)" name="LED"/>
-    <comp lib="5" loc="(4110,1170)" name="LED"/>
-    <comp lib="5" loc="(4110,1220)" name="LED"/>
-    <comp lib="5" loc="(4110,1280)" name="LED"/>
-    <comp lib="5" loc="(4110,1340)" name="LED"/>
-    <comp lib="5" loc="(4110,1400)" name="LED"/>
-    <comp lib="5" loc="(4110,990)" name="LED"/>
-    <comp lib="5" loc="(4170,1050)" name="LED"/>
-    <comp lib="5" loc="(4170,1110)" name="LED"/>
-    <comp lib="5" loc="(4170,1170)" name="LED"/>
-    <comp lib="5" loc="(4170,1220)" name="LED"/>
-    <comp lib="5" loc="(4170,1280)" name="LED"/>
-    <comp lib="5" loc="(4170,1340)" name="LED"/>
-    <comp lib="5" loc="(4170,1400)" name="LED"/>
-    <comp lib="5" loc="(4170,990)" name="LED"/>
+    <comp lib="5" loc="(1580,170)" name="LED"/>
+    <comp lib="5" loc="(1580,230)" name="LED"/>
+    <comp lib="5" loc="(1580,290)" name="LED"/>
+    <comp lib="5" loc="(1580,350)" name="LED"/>
+    <comp lib="5" loc="(1580,400)" name="LED"/>
+    <comp lib="5" loc="(1580,460)" name="LED"/>
+    <comp lib="5" loc="(1580,520)" name="LED"/>
+    <comp lib="5" loc="(1580,580)" name="LED"/>
+    <comp lib="5" loc="(1640,170)" name="LED"/>
+    <comp lib="5" loc="(1640,230)" name="LED"/>
+    <comp lib="5" loc="(1640,290)" name="LED"/>
+    <comp lib="5" loc="(1640,350)" name="LED"/>
+    <comp lib="5" loc="(1640,400)" name="LED"/>
+    <comp lib="5" loc="(1640,460)" name="LED"/>
+    <comp lib="5" loc="(1640,520)" name="LED"/>
+    <comp lib="5" loc="(1640,580)" name="LED"/>
+    <comp lib="5" loc="(1700,170)" name="LED"/>
+    <comp lib="5" loc="(1700,230)" name="LED"/>
+    <comp lib="5" loc="(1700,290)" name="LED"/>
+    <comp lib="5" loc="(1700,350)" name="LED"/>
+    <comp lib="5" loc="(1700,400)" name="LED"/>
+    <comp lib="5" loc="(1700,460)" name="LED"/>
+    <comp lib="5" loc="(1700,520)" name="LED"/>
+    <comp lib="5" loc="(1700,580)" name="LED"/>
+    <comp lib="5" loc="(1760,170)" name="LED"/>
+    <comp lib="5" loc="(1760,230)" name="LED"/>
+    <comp lib="5" loc="(1760,290)" name="LED"/>
+    <comp lib="5" loc="(1760,350)" name="LED"/>
+    <comp lib="5" loc="(1760,400)" name="LED"/>
+    <comp lib="5" loc="(1760,460)" name="LED"/>
+    <comp lib="5" loc="(1760,520)" name="LED"/>
+    <comp lib="5" loc="(1760,580)" name="LED"/>
+    <comp lib="5" loc="(1820,170)" name="LED"/>
+    <comp lib="5" loc="(1820,230)" name="LED"/>
+    <comp lib="5" loc="(1820,290)" name="LED"/>
+    <comp lib="5" loc="(1820,350)" name="LED"/>
+    <comp lib="5" loc="(1820,400)" name="LED"/>
+    <comp lib="5" loc="(1820,460)" name="LED"/>
+    <comp lib="5" loc="(1820,520)" name="LED"/>
+    <comp lib="5" loc="(1820,580)" name="LED"/>
+    <comp lib="5" loc="(1880,170)" name="LED"/>
+    <comp lib="5" loc="(1880,230)" name="LED"/>
+    <comp lib="5" loc="(1880,290)" name="LED"/>
+    <comp lib="5" loc="(1880,350)" name="LED"/>
+    <comp lib="5" loc="(1880,400)" name="LED"/>
+    <comp lib="5" loc="(1880,460)" name="LED"/>
+    <comp lib="5" loc="(1880,520)" name="LED"/>
+    <comp lib="5" loc="(1880,580)" name="LED"/>
+    <comp lib="5" loc="(1940,170)" name="LED"/>
+    <comp lib="5" loc="(1940,230)" name="LED"/>
+    <comp lib="5" loc="(1940,290)" name="LED"/>
+    <comp lib="5" loc="(1940,350)" name="LED"/>
+    <comp lib="5" loc="(1940,400)" name="LED"/>
+    <comp lib="5" loc="(1940,460)" name="LED"/>
+    <comp lib="5" loc="(1940,520)" name="LED"/>
+    <comp lib="5" loc="(1940,580)" name="LED"/>
+    <comp lib="5" loc="(2000,170)" name="LED"/>
+    <comp lib="5" loc="(2000,230)" name="LED"/>
+    <comp lib="5" loc="(2000,290)" name="LED"/>
+    <comp lib="5" loc="(2000,350)" name="LED"/>
+    <comp lib="5" loc="(2000,400)" name="LED"/>
+    <comp lib="5" loc="(2000,460)" name="LED"/>
+    <comp lib="5" loc="(2000,520)" name="LED"/>
+    <comp lib="5" loc="(2000,580)" name="LED"/>
     <comp loc="(1040,1130)" name="game_of_life_cell"/>
     <comp loc="(1040,1440)" name="game_of_life_cell"/>
     <comp loc="(1040,1750)" name="game_of_life_cell"/>
